@@ -1,7 +1,7 @@
 # 📊 Executive Sales Dashboard – AdventureWorks
 
 ## 🏢 Project Overview
-This project was developed as part of a data analytics sprint at **AdventureWorks**, focusing on the intersection of **Executive Leadership** and **Sales**. The goal was to create a strategic dashboard and two tailored presentations to support data-driven decision-making at both executive and departmental levels.
+This project was developed as part of a data analytics sprint at **AdventureWorks**, focusing on the intersection of **Executive Leadership** and **Sales**. The goal was to create a strategic dashboard to support data-driven decision-making at both executive and departmental levels.
 
 ## 🎯 Objective
 To analyze sales performance across key dimensions and deliver actionable insights that support executive strategy and sales department operations. The project includes:
@@ -25,17 +25,15 @@ The data is sourced from the **AdventureWorks** database.
 ## 🛠️ Tools Used
 - SQL (data extraction)
 - Power BI (dashboard creation)
-- PowerPoint / Google Slides (presentations)
-
+  
 ## 🚀 Next Steps
 - Integrate customer segmentation for deeper targeting
 - Explore predictive modeling for sales forecasting
 - Align sales incentives with performance insights
 
 ## 📂 Repository Contents
-- `dashboard/` – Dashboard files or screenshots
-- `presentations/` – Executive and Sales presentations
-- `sql/` – SQL queries used for data extraction
+- `Dashboard/` – Dashboard files or screenshots
+- `SQL queries/` – SQL queries used for data extraction
 - `README.md` – Project overview and documentation
 
 ## 📬 Contact
