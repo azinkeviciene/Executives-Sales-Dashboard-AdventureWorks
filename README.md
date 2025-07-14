@@ -32,7 +32,7 @@ The data is sourced from the **AdventureWorks** database.
 - Align sales incentives with performance insights
 
 ## 📂 Repository Contents
-- `Dashboard/` – Dashboard files or screenshots
+- `Dashboard/` – Dashboard file
 - `SQL queries/` – SQL queries used for data extraction
 - `README.md` – Project overview and documentation
 
